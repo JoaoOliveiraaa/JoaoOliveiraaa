@@ -20,4 +20,6 @@
   
 </div>
 
+<!--
 ![snake gif](https://github.com/JoaoOliveiraaa/JoaoOliveiraaa/blob/output/github-contribution-grid-snake.svg)
+-->

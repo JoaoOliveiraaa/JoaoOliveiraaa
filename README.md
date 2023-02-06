@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Seja, bem vindo!</h2>
+<h2> Olá! Sou o Joao Oliveira, Desenvolvedor FRONT-END e estudante de Engenharia da Computação</h2>
 </div>
 </br>
 <div align="center">

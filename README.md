@@ -32,5 +32,4 @@
   <a href="https://www.linkedin.com/in/joao-pedro-cunha-de-oliveira-9145a0233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 

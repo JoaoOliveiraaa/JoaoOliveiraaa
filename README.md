@@ -4,13 +4,13 @@
 <br>
 <div align="center">
   <a href="https://github.com/JoaoOliveiraaa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?JoaoOliveiraaa=anuraghazra&theme=blue_navy&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoOliveiraaa&theme=blue_navy&show_icons=true"/>
   </a>
 </div>
 <br>
 <div align="center">
   <a href="https://github.com/JoaoOliveiraaa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOliveiraaa&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOliveiraaa&layout=compact&langs_count=7&theme=blue_navy"/>
   </a>
 </div>
 <br>

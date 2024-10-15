@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Sou o joão</h2>
+<h2 align="left">Olá! Sou o João, web developer e entusiasta em aprender novas tech's!</h2>
 
 ###
 

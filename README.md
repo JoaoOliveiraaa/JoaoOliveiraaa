@@ -4,8 +4,8 @@
 
 <div align="center">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-  <img src="https://streak-stats.demolab.com?user=JoaoOliveiraaa&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoOliveiraaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MitkoVtori&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MitkoVtori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 

@@ -3,9 +3,10 @@
 ###
 
 <div align="center">
-  <img  alt="JoaoOliveiraaa's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JoaoOliveiraaa?cardType=level&theme=midnight-purple&preferLogin=false" />
-  <img src="https://streak-stats.demolab.com?user=JoaoOliveiraaa&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5"  alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoOliveiraaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" alt="languages graph" />
+
+  <img  alt="JoaoOliveiraaa's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/JoaoOliveiraaa?cardType=level&theme=github-dark&preferLogin=false" height="150"/>  
+  <img src="https://streak-stats.demolab.com?user=JoaoOliveiraaa&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoOliveiraaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false"  height="150" alt="languages graph" />
 </div>
 
 <br clear="both">

@@ -2,7 +2,7 @@
 
 # João Oliveira
 
-**Full-Stack Software Engineer**
+**Software Engineer**
 
 *Building scalable SaaS platforms, distributed backend systems and modern web applications — from architecture to production.*
 

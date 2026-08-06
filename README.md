@@ -6,7 +6,7 @@
 
 *Building scalable SaaS platforms, distributed backend systems and modern web applications — from architecture to production.*
 
-[![Portfolio](https://img.shields.io/badge/dejoao.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dejoao.com/)
+[![Portfolio](https://img.shields.io/badge/dejoao.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devjoao.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-cunha-de-oliveira-9145a0233/)
 [![Email](https://img.shields.io/badge/contato@dejoao.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oficialjoaocunha@yahoo.com)
 

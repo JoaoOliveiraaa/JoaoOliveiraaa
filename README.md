@@ -6,10 +6,6 @@
 
 *From architecture to production. Scalable backends, real-time platforms and AI-driven products.*
 
-[![Portfolio](https://img.shields.io/badge/devjoao.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devjoao.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-cunha-de-oliveira-9145a0233/)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjoaooliveiraaa@gmail.com)
-
 </div>
 
 ---
